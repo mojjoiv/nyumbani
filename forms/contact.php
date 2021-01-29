@@ -1,13 +1,6 @@
 <?php
-  /**
-  * Requires the "PHP Email Form" library
-  * The "PHP Email Form" library is available only in the pro version of the template
-  * The library should be uploaded to: vendor/php-email-form/php-email-form.php
-  * For more info and help: https://bootstrapmade.com/php-email-form/
-  */
-
-  // Replace info@Nyumbani - Devine Investing.co.ke with your real receiving email address
-  $receiving_email_address = 'info@Nyumbani - Devine Investing.co.ke';
+ 
+  $receiving_email_address = 'info@Nyumbani.co.ke';
 
   if( file_exists($php_email_form = '../assets/vendor/php-email-form/php-email-form.php' )) {
     include( $php_email_form );
