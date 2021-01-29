@@ -6,8 +6,8 @@
   * For more info and help: https://bootstrapmade.com/php-email-form/
   */
 
-  // Replace info@nyumbani.co.ke with your real receiving email address
-  $receiving_email_address = 'info@nyumbani.co.ke';
+  // Replace info@Nyumbani - Devine Investing.co.ke with your real receiving email address
+  $receiving_email_address = 'info@Nyumbani - Devine Investing.co.ke';
 
   if( file_exists($php_email_form = '../assets/vendor/php-email-form/php-email-form.php' )) {
     include( $php_email_form );
